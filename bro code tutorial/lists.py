@@ -20,4 +20,3 @@ food[0] = "sushi"
 # wyczyszcza liste
 for x in food:
     print(x)
-
