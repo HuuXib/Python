@@ -27,6 +27,7 @@ elif confirm == "NIE":
     print("Anulwoano wyciąg z konta")
     time.sleep(4)
 
+
 print("----------------------------------------")
 if z <= srodki:
     print("wybrano kwote o wartosci: ", z)
